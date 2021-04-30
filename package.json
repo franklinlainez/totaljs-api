@@ -1,0 +1,22 @@
+{
+  "name": "totaljs-api",
+  "version": "1.0.0",
+  "description": "Tarea #2, API desarrollada en totalJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn4rf/totaljs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kn4rf/totaljs-api/issues"
+  },
+  "homepage": "https://github.com/kn4rf/totaljs-api#readme",
+  "dependencies": {
+    "total4": "0.0.40"
+  }
+}
